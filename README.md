@@ -1,2 +1,2 @@
-# -AWS-SQL-Server-Migration
+# AWS-SQL-Server-Migration
 AWS DMS / MSSQL
