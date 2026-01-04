@@ -36,3 +36,5 @@ Validation evidence, monitoring, and screenshots are included in the attached pr
 
 ---
 
+## Architecture Diagram
+<img width="1013" height="811" alt="image" src="https://github.com/user-attachments/assets/2585524e-1681-4d83-b913-6dceb9f019e2" />
